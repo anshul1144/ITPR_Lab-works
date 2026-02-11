@@ -1,3 +1,5 @@
+//Write a program to find out factorial of a number by recursion
+
 import java.util.Scanner;
 
 class FactorialRecursion {
@@ -32,7 +34,4 @@ class FactorialRecursion {
 
         sc.close();
     }
-}
- {
-    
 }
