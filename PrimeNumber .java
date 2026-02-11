@@ -1,7 +1,7 @@
 // Program to display all prime numbers between 1 and 100
 class PrimeNumber {
 
-    // Main method: program execution starts here
+    // Main method
     public static void main(String[] args) {
 
         int i, j; // Loop variables
