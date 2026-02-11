@@ -1,4 +1,5 @@
 //Write a program to find out number of vowels and consonants into the given sentence.
+package Lab_Work_11_Feb;
 
 import java.util.Scanner; // importing Scanner class for user input
 
